@@ -7,7 +7,7 @@
 
 | Campo | Valor |
 |----|----|
-| **Nome do grupo** | `<PREENCHER — ex.: NETT — Time 01>` |
+| **Nome do grupo** | Valdemir Pinheiro |
 | **Modalidade** | Individual |
 | **Data de entrega** | `<PREENCHER — DD/MM/AAAA>` |
 
@@ -15,15 +15,15 @@
 
 | Nome | E-mail | Username Discord |
 |----|----|----|
-| José Pinheiro | pinheiroone@gmail.com | `<PREENCHER>` |
+| Valdemir Pinheiro | pinheiroone@gmail.com | pinheiro3199 |
 
 ## 3. Links da entrega
 
 | Item | URL |
 |----|----|
-| Repositório do código-fonte | `<PREENCHER — ex.: https://github.com/usuario/fcg-fase1>` |
-| Documentação DDD (Miro / equivalente) | `<PREENCHER — ou referenciar `docs/event-storming-*.md` se for entregue como markdown>` |
-| Vídeo de demonstração (até 15 min) | `<PREENCHER — ex.: https://youtu.be/...>` |
+| Repositório do código-fonte | <https://github.com/ValdemirPinheiro/Tech-Challenge-Fase-1> |
+| Documentação DDD | Markdown com diagramas Mermaid no próprio repositório, em [`docs/event-storming-usuarios.md`](event-storming-usuarios.md), [`docs/event-storming-jogos.md`](event-storming-jogos.md) e [`docs/domain-storytelling.md`](domain-storytelling.md) |
+| Vídeo de demonstração (até 15 min) | `<PREENCHER após gravação — ex.: https://youtu.be/...>` |
 
 ## 4. Escopo entregue
 

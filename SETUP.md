@@ -16,11 +16,10 @@ git add .
 git commit -m "feat: tech challenge fase 1 — FCG API REST (Clean Architecture + DDD)"
 ```
 
-Se ainda for criar o repositório no GitHub:
+Conectando ao repositório do GitHub (já criado):
 
 ```powershell
-# Após criar o repo vazio em https://github.com/<seu-usuario>/<seu-repo>
-git remote add origin https://github.com/<seu-usuario>/<seu-repo>.git
+git remote add origin https://github.com/ValdemirPinheiro/Tech-Challenge-Fase-1.git
 git push -u origin main
 ```
 
