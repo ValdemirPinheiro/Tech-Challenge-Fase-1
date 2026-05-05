@@ -79,11 +79,12 @@ try
 
         options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
         {
-            Description = "Cole o JWT no formato: Bearer {seu_token}",
+            Description = "Cole apenas o JWT (sem o prefixo 'Bearer '). O Swagger adiciona automaticamente.",
             Name = "Authorization",
             In = ParameterLocation.Header,
-            Type = SecuritySchemeType.ApiKey,
-            Scheme = "Bearer"
+            Type = SecuritySchemeType.Http,
+            Scheme = "bearer",
+            BearerFormat = "JWT"
         });
 
         options.AddSecurityRequirement(new OpenApiSecurityRequirement
