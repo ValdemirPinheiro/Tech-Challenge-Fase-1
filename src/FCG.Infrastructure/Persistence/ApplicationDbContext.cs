@@ -17,7 +17,4 @@ public class ApplicationDbContext : DbContext, IUnitOfWork
         base.OnModelCreating(modelBuilder);
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
     }
-
-    public Task<int> SaveChangesAsync(CancellationToken ct = default)
-        => base.SaveChangesAsync(ct);
 }
