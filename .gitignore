@@ -1,0 +1,78 @@
+## .NET / Visual Studio gitignore (FCG)
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.swp
+*.*~
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Build / publish
+*.binlog
+*.publish.xml
+*.pubxml
+*.pubxml.user
+*.publishproj
+PublishScripts/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tlog
+*.tmp
+*.tmp_proj
+
+# EF Core
+*.mdf
+*.ldf
+*.ndf
+
+# User secrets / sensitive
+secrets.json
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
