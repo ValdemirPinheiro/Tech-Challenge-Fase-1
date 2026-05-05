@@ -1,7 +1,6 @@
 # Relatório de Entrega — Tech Challenge Fase 1
 
 > Documento de submissão da Fase 1 do Tech Challenge da pós-graduação FIAP.
-> Substitua os campos `<PREENCHER>` pelos dados finais antes da entrega.
 
 ## 1. Identificação
 
@@ -9,7 +8,7 @@
 |----|----|
 | **Nome do grupo** | Valdemir Pinheiro |
 | **Modalidade** | Individual |
-| **Data de entrega** | `<PREENCHER — DD/MM/AAAA>` |
+| **Data de entrega** | 05/05/2026 |
 
 ## 2. Participantes
 
@@ -23,7 +22,7 @@
 |----|----|
 | Repositório do código-fonte | <https://github.com/ValdemirPinheiro/Tech-Challenge-Fase-1> |
 | Documentação DDD | Markdown com diagramas Mermaid no próprio repositório, em [`docs/event-storming-usuarios.md`](event-storming-usuarios.md), [`docs/event-storming-jogos.md`](event-storming-jogos.md) e [`docs/domain-storytelling.md`](domain-storytelling.md) |
-| Vídeo de demonstração (até 15 min) | `<PREENCHER após gravação — ex.: https://youtu.be/...>` |
+| Vídeo de demonstração (até 15 min) | <https://www.youtube.com/watch?v=O1Irf8veViQ> |
 
 ## 4. Escopo entregue
 
